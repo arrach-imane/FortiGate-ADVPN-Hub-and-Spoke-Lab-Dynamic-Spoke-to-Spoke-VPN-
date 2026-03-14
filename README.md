@@ -26,8 +26,9 @@ Initially, traffic between spokes passes through the hub. When communication is 
 * Secure inter-site communication
 
 ---
-
 ## Network Topology
+
+![Topology](topo.png)
 
 The topology consists of:
 
